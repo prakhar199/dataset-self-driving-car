@@ -1,0 +1,206 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.448961 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 45ec -> priority: 1 
+  Thread -> id: 2554 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.206121 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.242346 ms (FindLiveObjects: 0.024462 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.187164 ms  DeleteObjects: 0.011377 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.933086 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.970063 ms (FindLiveObjects: 0.141084 ms CreateObjectMapping: 0.110364 ms MarkObjects: 0.721351 ms  DeleteObjects: 0.994987 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.551114 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 2.592428 ms (FindLiveObjects: 0.027875 ms CreateObjectMapping: 0.024462 ms MarkObjects: 0.323129 ms  DeleteObjects: 2.214686 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461938 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 0.779947 ms (FindLiveObjects: 0.081920 ms CreateObjectMapping: 0.039822 ms MarkObjects: 0.323129 ms  DeleteObjects: 0.334506 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.760573 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 3.110118 ms (FindLiveObjects: 0.051768 ms CreateObjectMapping: 0.032995 ms MarkObjects: 0.368071 ms  DeleteObjects: 2.655575 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577991 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1503.
+Total: 0.859022 ms (FindLiveObjects: 0.075093 ms CreateObjectMapping: 0.044373 ms MarkObjects: 0.376604 ms  DeleteObjects: 0.362382 ms)
+
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\System.Xml.dll (this message is harmless)
+2/9/2019 3:49:26 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:27 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:28 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:29 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:30 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:31 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:32 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:33 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:34 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:35 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:36 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+2/9/2019 3:49:37 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+UnloadTime: 3.004304 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 3.020802 ms (FindLiveObjects: 0.072817 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.568320 ms  DeleteObjects: 2.350082 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.452835 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1506.
+Total: 0.928427 ms (FindLiveObjects: 0.068266 ms CreateObjectMapping: 0.039822 ms MarkObjects: 0.481849 ms  DeleteObjects: 0.337920 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.828840 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 3.085655 ms (FindLiveObjects: 0.080213 ms CreateObjectMapping: 0.038115 ms MarkObjects: 0.717938 ms  DeleteObjects: 2.248250 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.523947 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1506.
+Total: 1.104214 ms (FindLiveObjects: 0.096142 ms CreateObjectMapping: 0.046080 ms MarkObjects: 0.610987 ms  DeleteObjects: 0.350435 ms)
+
+2/9/2019 3:49:41 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+2/9/2019 3:49:42 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.139207 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 6.126369 ms (FindLiveObjects: 0.075093 ms CreateObjectMapping: 0.095573 ms MarkObjects: 1.352250 ms  DeleteObjects: 4.600039 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.898276 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.955165 ms (FindLiveObjects: 0.075662 ms CreateObjectMapping: 0.038684 ms MarkObjects: 0.490951 ms  DeleteObjects: 0.348160 ms)
+
+Platform assembly: C:\Users\ALEX\Downloads\simulator-windows-32\Self-Driving Car Simulator Windows 32-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
